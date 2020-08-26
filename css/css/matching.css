@@ -1,0 +1,44 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.naviu {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+li {
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.pic {
+  width: 400px;
+  height: 650px;
+}
+
+.guyinfo {
+  display: flex;
+}
+
+.profile {
+  list-style: none;
+}
+
+.answer {
+ width: 250px;
+ /* margin-left : auto;
+ margin-right: auto; */
+ 
+}
+
+.like-dislike {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
