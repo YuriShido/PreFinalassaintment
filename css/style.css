@@ -1,11 +1,9 @@
 .main {
   display: flex;
   justify-content: center;
-  
+  align-items: center;
 }
-
 h1 {
-  margin-top: 50px;
   text-align: center;
   font-size: 50px;
 }
@@ -20,8 +18,8 @@ h1 {
   justify-content: center;
 }
 .btn1 {
-  width: 200px;
-  height: 100px;
+  width: 30vw;
+  height: 10vh;
   margin: 30px;
   font-size: 20pxl;
 }
